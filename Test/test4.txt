@@ -1,0 +1,6 @@
+1
+5000 Old_Tree
+2
+12 Late_Bush
+3
+2 Garden_Flower

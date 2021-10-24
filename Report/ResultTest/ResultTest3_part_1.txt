@@ -1,0 +1,5 @@
+Container contains 4 elements.
+0: It is Flower. Type: WILD, Name: Wild_Flower, Quotient of division: 2.727273e-01
+1: It is Flower. Type: HOME, Name: Home_Flower, Quotient of division: 3.636364e-01
+2: It is Tree. Age: 123, Name: Tree_Age-123, Quotient of division: 3.333333e-01
+3: It is Shrub. Month: JANUARY, Name: Kust-Jan, Quotient of division: 2.500000e-01

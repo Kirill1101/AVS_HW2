@@ -1,0 +1,8 @@
+Container contains 7 elements.
+0: It is Flower. Type: WILD, Name: Flower22, Quotient of division: 2.500000e-01
+1: It is Tree. Age: 550, Name: Ash, Quotient of division: 3.333333e-01
+2: It is Flower. Type: HOME, Name: Tulpan, Quotient of division: 3.333333e-01
+3: It is Shrub. Month: JUNE, Name: Kust, Quotient of division: 2.500000e-01
+4: It is Shrub. Month: JULY, Name: Cust, Quotient of division: 2.500000e-01
+5: It is Shrub. Month: DECEMBER, Name: Smorodina, Quotient of division: 4.444444e-01
+6: It is Shrub. Month: APRIL, Name: Malina, Quotient of division: 5.000000e-01

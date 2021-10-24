@@ -1,0 +1,10 @@
+Container contains 9 elements.
+0: It is Tree. Age: 10254, Name: Derevo, Quotient of division: 5.000000e-01
+1: It is Tree. Age: 1020, Name: Derevo2, Quotient of division: 4.285714e-01
+2: It is Tree. Age: 1, Name: Derevo3, Quotient of division: 4.285714e-01
+3: It is Shrub. Month: JANUARY, Name: Malina, Quotient of division: 5.000000e-01
+4: It is Shrub. Month: DECEMBER, Name: Malina2, Quotient of division: 4.285714e-01
+5: It is Shrub. Month: JUNE, Name: Malina, Quotient of division: 5.000000e-01
+6: It is Flower. Type: HOME, Name: Flower1, Quotient of division: 2.857143e-01
+7: It is Flower. Type: GARDEN, Name: Flower2, Quotient of division: 2.857143e-01
+8: It is Flower. Type: WILD, Name: Flower3, Quotient of division: 2.857143e-01

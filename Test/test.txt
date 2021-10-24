@@ -1,0 +1,12 @@
+1
+100 Oak
+1
+126 Ash
+2
+12 Smorodina
+2
+4 Malina
+3
+3 Flower
+3
+1 Tulpan

@@ -1,0 +1,4 @@
+Container contains 3 elements.
+0: It is Tree. Age: 5000, Name: Old_Tree, Quotient of division: 3.750000e-01
+1: It is Shrub. Month: DECEMBER, Name: Late_Bush, Quotient of division: 3.333333e-01
+2: It is Flower. Type: GARDEN, Name: Garden_Flower, Quotient of division: 3.076923e-01
